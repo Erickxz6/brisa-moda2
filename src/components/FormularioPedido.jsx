@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { pesos } from '../utils/formato.js'
 
 // Número de WhatsApp de la tienda: 57 (Colombia) + celular, sin espacios
-const WHATSAPP_TIENDA = '573044510263'
+const WHATSAPP_TIENDA = '573213092513' // Cambia esto por tu número de WhatsApp
 
 const estiloCampo =
   'rounded-lg border border-stone-300 px-3 py-2 font-normal outline-none focus:border-mar-700'
