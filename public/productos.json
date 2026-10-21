@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "nombre": "Guayabera de lino",
+    "nombre": "Buzo Luis Vargas",
     "categoria": "hombre",
     "precio": 159000,
-    "imagen": "/img/guayabera.svg",
+    "imagen": "/img/buso.jpg",
     "tallas": [
       "S",
       "M",
@@ -12,14 +12,14 @@
       "XL"
     ],
     "nuevo": true,
-    "descripcion": "Guayabera clásica de lino con alforzas y cuatro bolsillos. Fresca y elegante para eventos de día."
+    "descripcion": "Buzo negro con capota y cordón ajustable, bolsillo canguro y puños elásticos. Estampado de monograma que se degrada hacia la parte baja."
   },
   {
     "id": 2,
-    "nombre": "Camiseta de algodón",
+    "nombre": "Suéter de punto azul marino",
     "categoria": "hombre",
     "precio": 45000,
-    "imagen": "/img/camiseta.svg",
+    "imagen": "/img/camisa.jpg",
     "tallas": [
       "S",
       "M",
@@ -27,14 +27,14 @@
       "XL"
     ],
     "nuevo": false,
-    "descripcion": "Camiseta de algodón peinado con cuello redondo. Ideal para el día a día en la ciudad."
+    "descripcion": "Suéter de punto azul marino con cuello redondo y logo en contraste en el pecho. Abrigado y elegante para el día a día."
   },
   {
     "id": 3,
-    "nombre": "Bermuda de dril",
+    "nombre": "Bermuda beige con cordón",
     "categoria": "hombre",
     "precio": 89000,
-    "imagen": "/img/bermuda.svg",
+    "imagen": "/img/bermuda.jpg",
     "tallas": [
       "28",
       "30",
@@ -42,14 +42,14 @@
       "34"
     ],
     "nuevo": false,
-    "descripcion": "Bermuda de dril con bolsillos laterales y bota a la altura de la rodilla."
+    "descripcion": "Bermuda beige de cintura elástica con cordón y estampado de monograma tono sobre tono. Cómoda y fresca para el calor."
   },
   {
     "id": 4,
-    "nombre": "Pantalón de lino",
+    "nombre": "Jogger azul marino estampado",
     "categoria": "hombre",
     "precio": 135000,
-    "imagen": "/img/pantalon-lino.svg",
+    "imagen": "/img/pantalon.jpg",
     "tallas": [
       "28",
       "30",
@@ -57,14 +57,14 @@
       "34"
     ],
     "nuevo": false,
-    "descripcion": "Pantalón de lino con pretina elástica y cordón. Liviano y cómodo para el calor."
+    "descripcion": "Pantalón tipo jogger de punto azul marino con estampado de monograma en blanco, bolsillos delanteros y bota ajustada."
   },
   {
     "id": 5,
-    "nombre": "Vestido floral",
+    "nombre": "Vestido negro con cinturón dorado",
     "categoria": "mujer",
     "precio": 149000,
-    "imagen": "/img/vestido-floral.svg",
+    "imagen": "/img/vestido.jpg",
     "tallas": [
       "XS",
       "S",
@@ -72,14 +72,14 @@
       "L"
     ],
     "nuevo": true,
-    "descripcion": "Vestido largo de viscosa con estampado de flores tropicales y tiras ajustables."
+    "descripcion": "Vestido negro sin mangas con escote redondo y cinturón con hebilla dorada. Sencillo, elegante y fácil de combinar."
   },
   {
     "id": 6,
-    "nombre": "Blusa campesina",
+    "nombre": "Camiseta gris de manga corta",
     "categoria": "mujer",
     "precio": 79000,
-    "imagen": "/img/blusa-campesina.svg",
+    "imagen": "/img/blusa.jpg",
     "tallas": [
       "XS",
       "S",
@@ -87,14 +87,14 @@
       "L"
     ],
     "nuevo": false,
-    "descripcion": "Blusa de hombros descubiertos con bordado artesanal en el escote."
+    "descripcion": "Camiseta gris de corte holgado y largo corto, con rayas en las mangas y pequeño logo bordado en el borde inferior."
   },
   {
     "id": 7,
-    "nombre": "Falda midi plisada",
+    "nombre": "Minifalda de jean con bolsillos",
     "categoria": "mujer",
     "precio": 99000,
-    "imagen": "/img/falda-midi.svg",
+    "imagen": "/img/mini-falda.jpg",
     "tallas": [
       "XS",
       "S",
@@ -102,14 +102,14 @@
       "L"
     ],
     "nuevo": false,
-    "descripcion": "Falda midi de cintura alta con pliegues. Combina con blusas y camisetas."
+    "descripcion": "Minifalda de jean azul con tiro alto y bolsillos grandes tipo cargo en los costados."
   },
   {
     "id": 8,
-    "nombre": "Short de lino",
+    "nombre": "Short azul claro con bordes ondulados",
     "categoria": "mujer",
     "precio": 72000,
-    "imagen": "/img/short-lino.svg",
+    "imagen": "/img/short.jpg",
     "tallas": [
       "XS",
       "S",
@@ -117,50 +117,50 @@
       "L"
     ],
     "nuevo": false,
-    "descripcion": "Short de lino de tiro alto con lazo en la cintura."
+    "descripcion": "Short azul claro de cintura elástica, con estampado de monograma y bordes ondulados en la bota. Ligero y fresco."
   },
   {
     "id": 9,
-    "nombre": "Sombrero vueltiao",
+    "nombre": "Sombrero bucket animal print",
     "categoria": "accesorios",
     "precio": 180000,
-    "imagen": "/img/sombrero-vueltiao.svg",
+    "imagen": "/img/sombrero.jpg",
     "tallas": [
       "Única"
     ],
     "nuevo": true,
-    "descripcion": "Sombrero tradicional tejido en caña flecha por artesanos de Tuchín, Córdoba."
+    "descripcion": "Sombrero tipo bucket en tono café con estampado animal print y logo bordado al frente. Ideal para el sol."
   },
   {
     "id": 10,
-    "nombre": "Mochila wayuu",
+    "nombre": "Mochila café con monograma",
     "categoria": "accesorios",
     "precio": 210000,
-    "imagen": "/img/mochila-wayuu.svg",
+    "imagen": "/img/mochila.jpg",
     "tallas": [
       "Única"
     ],
     "nuevo": false,
-    "descripcion": "Mochila tejida a mano por artesanas wayuu de La Guajira, con diseños geométricos únicos."
+    "descripcion": "Mochila grande de color café con estampado de monograma y detalles negros. Asa superior y bolsillo frontal con cremallera."
   },
   {
     "id": 11,
-    "nombre": "Gafas de sol",
+    "nombre": "Gafas de sol negras",
     "categoria": "accesorios",
     "precio": 65000,
-    "imagen": "/img/gafas-sol.svg",
+    "imagen": "/img/gafas.jpg",
     "tallas": [
       "Única"
     ],
     "nuevo": false,
-    "descripcion": "Gafas de sol con filtro UV400 y montura liviana."
+    "descripcion": "Gafas de sol rectangulares con montura negra, lentes oscuros y detalle dorado en las patas."
   },
   {
     "id": 12,
-    "nombre": "Sandalias de cuero",
+    "nombre": "Sandalias negras de tiras cruzadas",
     "categoria": "accesorios",
     "precio": 115000,
-    "imagen": "/img/sandalias-cuero.svg",
+    "imagen": "/img/sandalias.jpg",
     "tallas": [
       "36",
       "37",
@@ -170,6 +170,6 @@
       "41"
     ],
     "nuevo": false,
-    "descripcion": "Sandalias de cuero natural hechas en Colombia, con suela antideslizante."
+    "descripcion": "Sandalias negras de cuero con tiras anchas cruzadas y suela plana. Cómodas para todos los días."
   }
 ]
