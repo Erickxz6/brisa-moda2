@@ -22,7 +22,7 @@ function Portada() {
           </a>
         </div>
         <img
-          src="img/portada.svg"
+          src="/img/portada.svg"
           alt="Prendas de la nueva colección"
           className="w-full max-w-md h-96 object-cover object-top rounded-2xl shadow-lg"
         />
